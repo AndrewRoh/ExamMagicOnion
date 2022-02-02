@@ -4,7 +4,7 @@ using MagicOnion.Server;
 
 namespace Exam01.Server.Services
 {
-    public class ExamService : ServiceBase<IExamService>, IExamService
+    public class ExamHub : ServiceBase<IExamService>, IExamService
     {
         public UnaryResult<int> SumAsync(int x, int y)
         {
