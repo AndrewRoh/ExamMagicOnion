@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Exam01/Exam01.Unity/Logs
+/Exam01/Exam01.Unity/Library
+/Exam01/Exam01.Unity/Packages
