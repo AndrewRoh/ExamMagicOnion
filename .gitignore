@@ -61,3 +61,10 @@ crashlytics-build.properties
 /Exam01/Exam01.Unity/Logs
 /Exam01/Exam01.Unity/Library
 /Exam01/Exam01.Unity/Packages
+/Exam01/Exam01.Server/bin
+/Exam01/Exam01.Server/obj
+/Exam01/Exam01.Shared/obj
+/Exam01/Exam01.Shared/bin
+/Exam01/Exam01.Unity/obj
+/Exam01/Exam01.Unity/Library
+/Exam01/Exam01.Unity/Logs
